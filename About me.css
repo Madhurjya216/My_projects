@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+    background: black;
+    margin: 10px 100px;
+}
+
+.myphoto{
+    width: 300px;
+    border-radius: 50%;
+}
+
+h1{
+    color: white;
+    padding: 20px;
+    background-color: red;
+    text-align: center;
+    margin: 0px 330px;   
+    clip-path: polygon(13% 0, 0 100%, 89% 100%, 100% 0%);
+    font-family: 'Arimo', sans-serif;
+    font-family: 'DynaPuff', cursive;
+    font-size: 35px;
+    border-radius: 50%;
+}
+
+.main-hd{
+    padding: 20px 30px;;
+}
+
+.container{
+    text-align: center;
+}
+
+h2{
+    color: white;
+    margin-top: 5px;;
+}
+
+.h1{
+    margin-top: 90px;
+    margin-bottom: 20px;;
+    background: orange;
+    color: white;
+    border-radius: 40px;
+    clip-path: none;
+    padding: 10px 20px;;
+}
+
+p{
+    color: white;
+    padding: 10px;
+}
+
+#para{
+    font-size: 20px;
+    font-family: 'poppins';
+}
+
+.program{
+    width: 100px;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.contain-5{
+    display: flex; 
+}
+
+.div-1{
+    padding-right: 80px;;
+    padding-top: 10px;;
+}
+
+.h-photo{
+    width: 300px;
+    border-radius: 20px;
+}
+
+#div-1{
+    height: 300px;
+}
+
+mark{
+    padding: 5px;
+    color: white;
+    background: orangered;
+    border-radius: 10px;
+}
+
+span{
+    color: red;
+}
+
+iframe{
+    width: 100%;
+}
+
+.loc-hd{
+    margin-top: 80px;;
+    margin-bottom: 20px;;
+}
+
+.fol-hd{
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+#copyright{
+    text-align: center;
+    font-family: 'poppins';
+}
+
+a i{
+    font-size: 35px;
+    padding: 60px;
+}
+
+.contain-7{
+    margin-left: 21%;
+}
+
+.fa-linkedin-in{
+    color: blue;
+}
+
+.fa-instagram{
+    color: red;
+}
+
+.fa-github{
+    color: rgb(85, 1, 175)
+}
+
+.fa-stack-overflow{
+    color: yellow;
+}
