@@ -149,3 +149,95 @@ a i{
     color: yellow;
 }
 
+
+/* ======================== media quiries =========================== */
+
+@media (max-width: 600px) {
+    *{
+        /* font-size: 15px; */
+        margin: 0;
+        padding: 0;
+    }
+
+    .container{
+        width: 100%;
+    }
+
+    .myphoto{
+        width: 200px;
+    }
+
+    .main-hd{
+        font-size: 20px;
+        padding: 10px 50px;
+        text-align: center;
+    }
+
+    body{
+        margin: 0;
+        width: 100%;
+    }
+
+    .h1{
+        font-size: 18px;
+        margin-left: 40px;
+        margin-right: 40px;
+
+    }
+
+    h1{
+        margin: 0;
+    }
+
+    #para{
+        font-size: 13px;
+    }
+
+    h2{
+        font-size: 15px;
+    }
+
+    .program{
+        width: 40px;
+        margin: 0;
+        margin: 0;
+    }
+
+    .contain-3{
+        width: 100%;
+        text-align: center;
+    }
+
+    .contain-5{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .div-1{
+        text-align: center;
+        padding-right: 0;
+    }
+
+    iframe{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .fa-brands{
+        font-size: 20px;
+        padding: 8px;
+        /* text-align: center; */
+    }
+
+    .contain-7{
+        width: 100%;
+        text-align: center;
+        margin: 0;
+    }
+
+    hr{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
