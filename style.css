@@ -150,7 +150,12 @@ a i{
 }
 
 
+
+
 /* ======================== media quiries =========================== */
+
+
+
 
 @media (max-width: 600px) {
     *{
@@ -182,7 +187,7 @@ a i{
         font-size: 18px;
         margin-left: 40px;
         margin-right: 40px;
-
+        font-family: 'poppins';;
     }
 
     h1{
